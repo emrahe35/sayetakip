@@ -1,6 +1,6 @@
 # [Sâye Takip](https://www.sayetakip.com/)
 ## Overview
-Sâye Takip is a Gps Tracking System based of Asp.Net and Microsoft SQL Server. Is supports more gps protocols and gps tacker devices.
+Sâye Takip is a Gps Tracking System based of Asp.Net and Microsoft SQL Server. Is supports more gps protocols and gps tracker devices.
 For more informations please contact with me.
 
 E-mail: emrahe.developer@outlook.com.tr
