@@ -29,7 +29,7 @@ Visit at [Web site](https://www.sayetakip.com/Ozellikler)
 * Settings
   * Contact (Phone numbers, E-mails)
   * Language (Supporting Turkish, English, Azerbaijan Language, Russian, Arabic)
-* Liva Tracking
+* Live Tracking
 * Share Device Locations: Device Locations so Live Tracking Share With Another Persons 
 * Multiple Maps : Google, Heremaps, Bing, Yandex maps, Osm map and more...
 * Reports
