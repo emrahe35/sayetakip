@@ -24,7 +24,7 @@ Password: 123456
 ### Features
 Some available of features include:
 Visit at [Web site](https://www.sayetakip.com/Ozellikler)
-* Signin - Two factor validation (via e-mail, via sms soon)
+* Signin - Two factor validation (via e-mail, via sms)
 * Forgot password
 * Settings
   * Contact (Phone numbers, E-mails)
