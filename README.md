@@ -69,7 +69,6 @@ Visit at [Web site](https://www.sayetakip.com/Ozellikler)
 * RFID Card Reading Report
 * Working Hour Management
 * IAM (Identity Access Management) (in process)
-* 
 
 ## Supported Devices
 System supporting more devices and gps protocols. Now entegrated 4 gps protocols will add more protocols soon.
