@@ -62,11 +62,14 @@ Visit at [Web site](https://www.sayetakip.com/Ozellikler)
   * Commands (for sending to device)
 
 ## Developing Features
-* Bus/Taxi Tracking System (in process)
+* Bus/Minibus Tracking System (in process)
+* Bus/Minibus Reports (in process)
 * Route planning (not started)
 * Sub User Management
 * RFID Card Reading Report
 * Working Hour Management
+* IAM (Identity Access Management) (in process)
+* 
 
 ## Supported Devices
 System supporting more devices and gps protocols. Now entegrated 4 gps protocols will add more protocols soon.
